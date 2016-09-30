@@ -1,0 +1,28 @@
+extends inc/layout
+
+block content
+  section.content-page.current
+    .col-xs-12
+      .row
+        .col-xs-12.content-header
+          h1.pull-left Sample Extension
+
+      .widget-title.title-with-nav-bars
+        ul.nav.nav-tabs
+          li.active
+            a(data-toggle='tab', href='#profile', aria-expanded='true')
+              span.tab-title Profile
+          li
+            a(data-toggle='tab', href='#messages')
+              span.tab-title Messages
+          li
+            a(data-toggle='tab', href='#settings')
+              span.tab-title Settings
+
+      #content-area.tab-content
+        #profile.tab-pane.active
+          | Profile
+        #messages.tab-pane
+          | Messages
+        #settings.tab-pane
+          | Settings

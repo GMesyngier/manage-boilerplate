@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="144px" height="144px" viewBox="0 0 144 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Wireframes-v7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-607.000000, -144.000000)">
+            <g id="Group-2" transform="translate(608.000000, 145.000000)">
+                <circle id="Oval" stroke="#999999" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,12,1,10" cx="71" cy="71" r="71"></circle>
+                <path d="M86.4666667,57.8067633 L86.4666667,63.6908213 L100,55.8454106 L86.4666667,48 L86.4666667,53.884058 L76.8,53.884058 L55.5333333,83.3043478 L42,83.3043478 L42,87.2270531 L57.4666667,87.2270531 L78.7333333,57.8067633 L86.4666667,57.8067633 L86.4666667,57.8067633 Z M86.4666667,83.3043478 L78.7333333,83.3043478 L72.0362667,74.0271498 L69.4804,77.1064734 L76.8,87.2270531 L86.4666667,87.2270531 L86.4666667,93.1111111 L100,85.2657005 L86.4666667,77.4202899 L86.4666667,83.3043478 L86.4666667,83.3043478 Z M62.4276,67.3389372 L64.9428667,64.2203865 L57.4666667,53.884058 L42,53.884058 L42,57.8067633 L55.5333333,57.8067633 L62.4276,67.3389372 L62.4276,67.3389372 Z" id="Fill-657" fill="#1F242E"></path>
+            </g>
+        </g>
+    </g>
+</svg>
